@@ -1,0 +1,1 @@
+document.getElementById("mes").innerHTML="hello world"

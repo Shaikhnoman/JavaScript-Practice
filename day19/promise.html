@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    let p=new promise((resolve,reject)=>{
+        let donedinner=true
+        if(donedinner==true){
+            resolve()
+        }else{
+            reject()
+        }
+        })
+        p.then(()=>{
+            console.log("done dinner and had tea")
+
+        }).catch(()=>{
+            console.log("had dal chawal at home")
+
+        }).finally(()=>{
+            console.log("problem sorted")
+        })
+
+</script>
+</body>
+</html>

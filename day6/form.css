@@ -1,0 +1,23 @@
+.for{
+    background-color: rgb(18, 244, 18);
+    margin:0px 35vw;
+    margin-right: vw;
+
+
+   
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color:rgb(151, 151, 27);
+}
+#fullname{
+    margin-left: 30px;
+}
+#mail{
+    margin-left: 30px;
+}
+h2{
+    text-align: center;
+}
