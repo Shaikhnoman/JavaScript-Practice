@@ -40,5 +40,5 @@ Feel free to reach out to me at:
 
 Email: shaikhnomanahmed02@gmail.com
 LinkedIn: https://www.linkedin.com/in/shaikh-noman-ahmed-1a4b8b24b/
-GitHub: [Your GitHub Profile](https://github.com/Shaikhnoman)
+GitHub: (https://github.com/Shaikhnoman)
 
